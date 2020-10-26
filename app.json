@@ -10,6 +10,10 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "notification" : {
+        "icon" : "assets/notification.png",
+        "color" : "#FFD666"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
